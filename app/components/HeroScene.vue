@@ -62,7 +62,7 @@
               <UButton icon="logos:telegram" size="lg" color="neutral" variant="soft" to="https://t.me/encryrose" target="_blank">
                 Telegram
               </UButton>
-              <UButton icon="logos:github-icon" size="lg" color="neutral" variant="soft" to="https://github.com/03O3" target="_blank">
+              <UButton icon="logos:github-icon" size="lg" color="neutral" variant="soft" to="https://github.com/encryrose" target="_blank">
                 Github
               </UButton>
               <UButton icon="streamline-freehand-color:cursor-highlight-click-1" size="lg" color="neutral" variant="soft" to="https://duza.dev" target="_blank">
