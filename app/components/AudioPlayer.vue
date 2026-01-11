@@ -50,7 +50,7 @@ const isUnlocked = ref(false)
 const isMuted = ref(false)
 const volumeUi = ref(10)
 
-const startAt = 37
+const startAt = 36
 
 let audioCtx: AudioContext | null = null
 let sourceNode: MediaElementAudioSourceNode | null = null
