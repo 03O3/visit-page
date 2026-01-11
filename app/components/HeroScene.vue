@@ -41,7 +41,7 @@
         <div class="grid place-items-center gap-8">
           <div class="relative mx-auto">
             <div class="absolute -inset-6 rounded-full bg-gradient-to-r from-white/10 via-white/5 to-white/10 blur-2xl" data-reveal />
-            <NuxtImg
+            <img
               data-reveal
               src="/avatar.jpg"
               alt="Avatar"
