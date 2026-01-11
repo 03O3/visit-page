@@ -1,0 +1,30 @@
+{
+  "name": "visitka",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/eslint": "1.12.1",
+    "@nuxt/hints": "1.0.0-alpha.5",
+    "@nuxt/image": "2.0.0",
+    "@nuxt/ui": "4.3.0",
+    "animejs": "^4.1.4",
+    "eslint": "^9.0.0",
+    "nuxt": "^4.2.2",
+    "typescript": "^5.6.3",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@iconify-json/heroicons": "^1.2.3",
+    "@types/node": "^22.10.2"
+  }
+}
